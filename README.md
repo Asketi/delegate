@@ -1,2 +1,2 @@
-# gui
+# delegate
 laba
